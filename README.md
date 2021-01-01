@@ -14,8 +14,6 @@
     -   OA : powerpoint 2016, starUML 3.2.2
     -   IDA : Eclipse IDE jee 2020-03, Oracle Sql Developer-19.4.0.354
     -   개발언어 : Java-jdk-8u251, GUI: JAVA Window Builder 1.9.3
--   PPT
--   GIT URL: [github.com/dustjq1004/ZKDPos](https://github.com/dustjq1004/ZKDPos)
 
 #### 2. 저같드(저녁 같이 드실래요?) 포차 POS
 
