@@ -2,8 +2,6 @@
 
 ---
 
-[##_Image|kage@ddNEgz/btqOIaMV5OP/BjsQ5PbKvIEe5d2e9I1HGK/img.png|alignCenter|width="634" height="NaN" data-origin-width="663" data-origin-height="372" data-filename="blob" data-ke-mobilestyle="widthContent"|저녁 같이 드실래요? 테이블 오더||_##]
-
 ### 자바 미니프로젝트 - POS
 
 #### 1. 프로젝트 설명
