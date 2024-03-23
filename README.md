@@ -1,37 +1,53 @@
 # 저녁 같이 드실래요?
 
+### 자바 미니 프로젝트 - POS
 
-### 자바 미니프로젝트 - POS
+<p align="center">
+<img width="33%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/ea5c2183-bc56-4a86-9c36-be489038f97a">
+<img width="30.5%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/445baeba-8d53-4dc1-8366-bf6ffd8dacdb">
+<img width="33.5%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/c392ac4d-a938-421b-9b36-157674b92384">
+</p>
 
-#### 1. 프로젝트 설명
 
--   자바 GUI 인 Swing 과 JDBC를 이용하여 만드는 자바 응용프로그램 프로젝트
+### 1. 프로젝트 설명
+
 -   기간 : 2020-07-09 ~ 2020-07-31 (3주)
 -   팀 인원 : 5명
 -   사용기술
-    -   OS : windows 10 pro
-    -   OA : powerpoint 2016, starUML 3.2.2
-    -   IDA : Eclipse IDE jee 2020-03, Oracle Sql Developer-19.4.0.354
-    -   개발언어 : Java-jdk-8u251, GUI: JAVA Window Builder 1.9.3
+    -   언어 : Java 1.8,
+    -   GUI: JAVA Window Builder 1.9.3
+    -   DataBase : Oracle
+    -   OS : windows
+    -   협업툴 : powerpoint 2016, starUML 3.2.2
+    -   IDE : Eclipse
 
-#### 2. 저같드(저녁 같이 드실래요?) 포차 POS
-
--   기획의도
-    
-    -   코로나 시대에 집에서 못 나오는 상황에 답답해하던 2030대 젊은 층이 답답함을 해소하기 위해 헌팅 포차라는 술집에 많은 사람들이 몰리게 되었습니다. 헌팅포차에 갑작스럽게 손님이 많아져 직원을 더 고용함으로써 생긴 인권비 상승, 높아진 손님들의 불만사항을 테이블 오더시스템을 도입하여 문제점을 해결하고 기존 헌팅포차의 목적인 남여사이의 어색한 만남을 게임이라는 콘텐츠를 넣어 자연스러운 대화와 즐거움을 더할 수 있는 기존 헌팅포차의 문제점을 해결해보자 하는 목표로 이 프로젝트를 선정하게 되었습니다.
-    
+### 2. 구현 기능 및 설명
 -   프로젝트 기여도 : 30%
--   내가 개발한 기능
-    
-    -   메뉴 관리 기능
+-   역할 : Full Stack (UI, 비즈니스 로직)
+-   메뉴 관리 기능
+-   담당 기능
     -   메뉴판 기능
         -   장바구니
         -   주문
     -   주방 대기열 기능
-        -   주문 상태 표시 (조리대기, 조리중 , 조리완료) - 음식만 해당
+        -   주문 상태 표시 (조리대기, 조리중, 조리완료) - 음식만 해당
         -   조리대기에서 조리중으로 넘어갈 시 고객의 주문취소 버튼 비활성화
     -   카운터 픽업창 기능
         -   고객 주문시 버튼에 빨간불이 들어오고 픽업을 모두 완료하지 않을 시 분홍색 불로 유지.
         -   음식과 음료 픽업 버튼
         -   음료 픽업시 고객의 주문취소 버튼 비활성화
         -   조리 완료시 음식 픽업버튼 활성화
+
+### 3. 테이블 명세서
+<p align="center">
+<img width="49%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/ba58344b-2dac-49ff-9396-21ae4f42e827">
+<img width="41.8%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/bbd54ffb-7576-4409-bc41-1a729af25e23">
+</p>
+<p align="center">
+<img width="49%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/2c8b3884-dec4-4553-8d0c-12d9fb408915">
+<img width="41.5%" alt="image" src="https://github.com/dustjq1004/ZKDPos/assets/73459956/9f93365d-4901-454f-a32a-bacc6486edd2">
+</p>
+
+
+### 4. System Architecture
+
